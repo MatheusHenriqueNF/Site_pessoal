@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+	
+		<link type="text/css" rel="stylesheet" href="css/estilo.css" />
+	
+	</head>
+	
+	<body>
+		
+		<header>
+		
+		
+			<div id="logo">
+				<a href="index.html"><img id="logo-img" src="img/CURSOS2.png"/></a>
+			</div>
+			
+			<div class="menu">
+				<a class="a-menu"href="#"><p>Home</p></a>
+			</div>
+			
+			<div class="menu">
+				<a class="a-menu"href="#"><p>Bem-Vindo</p></a>
+			</div>	
+
+			<div class="menu">
+				<a class="a-menu"href="#sec-1"><p>Graduação</p></a>
+			</div>
+			
+			<div class="menu">
+				<a class="a-menu"href="#"><p>Pós-Graduação</p></a>
+			</div>
+			
+		</header>
+		
+		<section id="sec-1"class="conteudo">
+		
+			<div class="div-conteudo">
+			
+				<h1>Bem-Vindo</h1>
+				<p class="texto-section">Na Unifesp de São Paulo, você encontra cursos voltados para a área da saúde, é um ótimo campus para você que procura estudar em um local limpo, fresco, acessível e com uma infroestrutura de alta qualidade. Na Universidade Paulista os alunos se tornam grande profissionais do mercado.</p>
+			
+			</div>
+
+			<div class="conteudo-img">
+				<img src="img/unifesp.png"/>
+			</div>
+		
+		</section>		
+
+		<section id="sec-2"class="conteudo">
+		
+			<div class="div-conteudo">
+			
+				<h1>Graduação</h1>
+				<table>
+					<tr>
+						<td>CURSO</td>
+						<td>Biomedicina</td>
+						<td>Integral</td>
+					</tr>
+				</table>
+			
+			</div>
+		
+		</section>		
+		
+		<footer>
+		</footer>
+	
+	</body>
+
+</html>
