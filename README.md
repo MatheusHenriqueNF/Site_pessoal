@@ -11,10 +11,7 @@ Claro! Aqui está o README adaptado para o seu site sobre os cursos disponíveis
 - [Sobre](#sobre)
 - [Tecnologias](#tecnologias)
 - [Funcionalidades](#funcionalidades)
-- [Como Rodar](#como-rodar)
-- [Como Contribuir](#como-contribuir)
-- [Licença](#licença)
-- [Contato](#contato)
+
 
 ---
 
