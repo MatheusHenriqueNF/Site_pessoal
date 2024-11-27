@@ -1,7 +1,3 @@
-Claro! Aqui está o README adaptado para o seu site sobre os cursos disponíveis na UNIFESP do campus São Paulo:
-
----
-
 # **UNIFESP Cursos São Paulo**
 
 > **Plataforma para explorar e compartilhar informações sobre os cursos disponíveis na UNIFESP, campus São Paulo.**
